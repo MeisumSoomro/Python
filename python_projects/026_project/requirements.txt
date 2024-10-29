@@ -1,0 +1,4 @@
+pygame>=2.1.2
+mutagen>=1.45.1
+matplotlib>=3.5.0
+numpy>=1.21.0 
